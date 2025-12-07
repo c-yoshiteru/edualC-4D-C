@@ -8,7 +8,7 @@ Claude's Contribution to the 4D-C Project
 
 
 
-📚 目次
+目次
 �
 
 
@@ -249,9 +249,30 @@ python examples/demo.py
 �
 
 
-メイン理論
+メイン理論・論文
+4D-C- (メインリポジトリ)
 https://github.com/c-yoshiteru/4D-C-
+理論論文、技術仕様書、真実性認証システム
 �
+
+
+実装リポジトリ
+4d-c-engine (ChatGPT版)
+https://github.com/c-yoshiteru/4d-c-engine
+完全版設計仕様書（v1.0）
+三層構造の明確化、数学的厳密性、研究ロードマップ
+�
+
+
+Grok-4D-C (Grok版)
+https://github.com/c-yoshiteru/Grok-4D-C
+True Mari v2.0 - 三軸C値テンソル、8方向反転、5段階マリ
+体験型デモ、クイックスタート実装
+�
+
+
+Cleade-4D-C (本リポジトリ・Claude版)
+包括的ドキュメント、理論と実装の統合ガイド
 
 
 
